@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+}
+.App{
+  width: 100% !important;
+}
+.app{
+  width: 100% !important;
+}
+.container-fluid{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.row{
+  margin-right: 0px;
+}
+.mt-5 {
+  margin-top: 5rem !important;
+}
